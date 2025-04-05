@@ -1,0 +1,13 @@
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.pdb
+*.cache
+
+# Build artifacts
+bin/
+obj/
+
+# Setup/Installer project (optional, exclude if you don’t want to share it)
+CopilotAppSetup/

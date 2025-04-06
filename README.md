@@ -1,6 +1,6 @@
 # CopilotApp
 
-A customizable Windows desktop assistant with hotkey support for quick text and image analysis. Capture screenshots (512x512 or full-screen), process clipboard text, and receive AI-powered responses using tailored prompts and OpenAI models.
+A customizable Windows AI desktop assistant with hotkey support for quick text and image analysis. Capture screenshots (512x512 or full-screen), process clipboard text, and receive AI-powered responses using tailored prompts and OpenAI models.
 
 ## Features
 - **Hotkey Support**: Capture a 512x512 region (Ctrl+Shift+S) or full screen (Ctrl+Shift+F) for instant analysis.
